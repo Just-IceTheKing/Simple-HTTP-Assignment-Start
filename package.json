@@ -1,6 +1,10 @@
 {
   "name": "simple-http-assignment-start",
   "version": "1.0.0",
+  "engines": {
+    "node": "8.4.0",
+    "npm": "5.6.0"
+  },
   "description": "simple http homework exercise",
   "main": "./src/server.js",
   "scripts": {
